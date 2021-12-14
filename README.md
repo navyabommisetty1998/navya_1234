@@ -1,2 +1,2 @@
 # navya_1234
-my first code
+my first code skill
